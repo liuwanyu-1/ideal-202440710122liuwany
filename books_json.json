@@ -1,0 +1,10 @@
+{"id":"1001","name":"Java基础","author":"张三","price":59.9,"press":"机械工业","year":2020}
+{"id":"1002","name":"Python入门","author":"李四","price":49.9,"press":"人民邮电","year":2021}
+{"id":"1003","name":"C语言","author":"王五","price":39.9,"press":"高等教育","year":2019}
+{"id":"1004","name":"MySQL","author":"赵六","price":69.9,"press":"清华大学","year":2022}
+{"id":"1005","name":"SpringBoot","author":"钱七","price":89.9,"press":"电子工业","year":2023}
+{"id":"1006","name":"Vue教程","author":"孙八","price":45.5,"press":"机械工业","year":2021}
+{"id":"1007","name":"Linux","author":"周九","price":55.5,"press":"人民邮电","year":2020}
+{"id":"1008","name":"Docker","author":"吴十","price":66.6,"press":"电子工业","year":2022}
+{"id":"1009","name":"Redis","author":"郑一","price":77.7,"press":"清华大学","year":2023}
+{"id":"1010","name":"SpringCloud","author":"王二","price":99.9,"press":"机械工业","year":2024}
